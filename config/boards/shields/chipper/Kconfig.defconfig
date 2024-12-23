@@ -1,7 +1,7 @@
 if SHIELD_CHIPPER_LEFT
 
 config ZMK_KEYBOARD_NAME
-	default "Chipper"
+	default "Tim's Keyboard"
 
 config ZMK_SPLIT_BLE_ROLE_CENTRAL
 	default y
@@ -11,7 +11,7 @@ endif
 if SHIELD_CHIPPER_RIGHT
 
 config ZMK_KEYBOARD_NAME
-	default "Chipper Right"
+	default "Tim's Keyboard Right"
 	
 endif
 
